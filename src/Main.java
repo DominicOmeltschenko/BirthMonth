@@ -8,11 +8,11 @@ public class Main {
     //      num birthMonth
     //      output "Please enter your birth month [1-12]"
     //      input birthMonth
-    //      if birthMonth >= 1 and birthMonth <= 12  then
-    //          output “Your birth month is:” + birthMonth
-    //      else
-    // 		    output “Error, you entered an invalid month. You entered:” + birthMonth
-    //      end if
+    //  if birthMonth >= 1 and birthMonth <= 12  then
+    //      output “Your birth month is:” + birthMonth
+    //  else
+    // 		output “Error, you entered an invalid month. You entered:” + birthMonth
+    //  end if
     //  return
     //end class
     public static void main(String[] args) {
